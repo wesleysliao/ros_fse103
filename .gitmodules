@@ -1,0 +1,3 @@
+[submodule "src/python_fse103"]
+	path = src/python_fse103
+	url = https://github.com/wesleysliao/python_fse103.git
